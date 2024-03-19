@@ -7,13 +7,17 @@
     margin-top: 1rem;
 }
 
+.titBebidas{
+    padding: 1rem;
+}
+
 .coca{
     width: 10rem;
 }
 
 .preCarrito-1{
     display: flex;
-    gap: 4rem;
+    gap: 2rem;
     margin-top: 1rem;
     align-items: center;
 
@@ -24,5 +28,5 @@
 
     display: flex;
     align-items: center;
-    gap: 15rem;
+    gap: 5rem;
 }

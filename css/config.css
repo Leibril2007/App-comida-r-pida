@@ -26,9 +26,8 @@ html{
 
 
 .pantalla{
-    max-width: 37.5rem;
+    max-width: 30em;
     margin: auto;
-    padding: 1rem;
     /* background-color: lightcoral; */
 }
 
