@@ -1,0 +1,50 @@
+.pBurguer{
+    /* background-color: black; */
+    /* background-image: url("https://www.freecodecamp.org/news/content/images/2021/07/Screenshot-2021-07-21-at-9.07.41-AM.png"); */
+    background-image: url("../img/header.png");
+    background-position: center center;
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.nBurguer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.Hamburger{
+    margin: 2rem;
+    height: 11.8rem;
+}
+.titBurger{
+    color: #FFFFFF;
+    margin-top: 0.5rem;
+}
+
+.horaBurger{
+    width: 13rem;
+    /* border: 1px solid black; */
+    height: 2rem;
+    background-color: #54CC0A;
+    color: #FFFFFF;
+    border-radius: 0.2rem;
+    margin-top: 1rem;
+    margin-bottom: 3.5rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* text-align: center; */
+}
+
+.infoBurger{
+    margin-top: 0.5rem;
+    color: #ffffffca;
+}

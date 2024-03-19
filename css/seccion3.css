@@ -1,0 +1,28 @@
+.pBebidas{
+    margin-top: 2rem;
+}
+
+.hBebidas{
+    display: flex;
+    margin-top: 1rem;
+}
+
+.coca{
+    width: 10rem;
+}
+
+.preCarrito-1{
+    display: flex;
+    gap: 4rem;
+    margin-top: 1rem;
+    align-items: center;
+
+}
+
+.preCarrito-2{
+    margin-top: 2.9rem;
+
+    display: flex;
+    align-items: center;
+    gap: 15rem;
+}
