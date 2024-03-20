@@ -1,5 +1,6 @@
 .pBebidas{
     margin-top: 2rem;
+    margin-bottom: 2.5rem;
 }
 
 .hBebidas{
@@ -28,5 +29,6 @@
 
     display: flex;
     align-items: center;
-    gap: 5rem;
+    gap: 4rem;
 }
+
